@@ -6,7 +6,7 @@ Musicle lets you choose an artist and try to identify a mystery song from their 
 
 Each guess reveals clues about the song, album, track number, duration, and featured artists, helping you narrow down the answer.
 
-> 🎮 **Live Game:** Coming soon
+> 🎮 **[Play Musicle](https://mellow-mochi-8b1b74.netlify.app/)**
 
 ---
 
